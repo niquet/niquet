@@ -1,4 +1,5 @@
 ### Hi there 👋
+Felt like messing around with some code on here idk ... might fork it later idk ⚡
 
 <!--
 **niquet/niquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
