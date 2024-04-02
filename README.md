@@ -5,7 +5,7 @@ I'm **Max**, a Go enthusiast with a strong passion for backend engineering and c
 </br>
 </br>
 
-☝️ Stuck on a problem? Talk to the rubber duck
+Try talking to ☝️, the rubber duck, if you are stuck on a bug
 
 ### Personal info
 
