@@ -5,12 +5,12 @@ I'm **Max**, a Go enthusiast with a strong passion for backend engineering and c
 </br>
 </br>
 
-Try talking to ☝️, the rubber duck, if you are stuck on a bug
+_Try talking to_ ☝️, _the rubber duck, if you are stuck on a bug_
 
 ### Personal info
 
 - 🔧 I use daily: .go, .py, .sh
-- 🌱 Reviewing practical engineering advice and collecting the same at [niquet/practical-notes](https://github.com/niquet/practical-notes)
+- 🌱 Collecting my own practical notes on all things engineering at [niquet/practical-notes](https://github.com/niquet/practical-notes)
 - 💬 Ask me about my dog, my passion for cheese and my opinions on german beer
 - 📫 How to reach me: [on Twitter](https://twitter.com/node_env), [on LinkedIn](https://www.linkedin.com/in/niquet), [on a roll](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
