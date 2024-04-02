@@ -1,4 +1,4 @@
-<img align="left" src="assets/rubber-duck.png" height="148px">
+<img align="left" src="assets/rubber-duck.png" height="128px">
 
 ### Hi there 👋 nice to meet you
 I'm **Max**, a Go enthusiast with a strong passion for backend engineering and computer networking. I love writing dev tools and improving my soft skills.
