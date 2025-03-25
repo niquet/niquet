@@ -10,8 +10,7 @@ _Try talking to_ ☝️, _the rubber duck_, _if you're stuck on a bug_
 ### Personal info
 
 - 🔧 I use daily: .go, .py, .sh
-- 🌱 Collecting my own practical notes on all things engineering at [niquet/practical-notes](https://github.com/niquet/practical-notes)
-- 💬 Ask me about my dog, my passion for cheese and my opinions on german beer
+- 💬 Ask me about my dog, my passion for cheese
 - 📫 How to reach me: [on Twitter](https://twitter.com/node_env), [on LinkedIn](https://www.linkedin.com/in/niquet), [on a roll](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <!--
