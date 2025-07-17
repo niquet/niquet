@@ -2,9 +2,9 @@ Hi there 👋 I’m Max—a Software Engineer driven by relentless curiosity, fr
 
 Fresh out of a CS degree, I saw teams stall—not from technical barriers, but from missing the point. Curiosity and clear communication make or break success.
 
-I challenge assumptions, dig into the fundamentals, and turn “boring” work into progress. I’m here to keep my team inspired and always ask the “why” others miss.
+I challenge assumptions, dig into the fundamentals, and turn “boring” work into progress. I’m here to solve problems once and right, build software that scales and delights.
 
-Today, I bring this mindset to backend teams I work on. I focus on unblocking challenges, motivating with positivity, and cutting to the core problem—often finding a simpler way forward. The goal: solve problems once and right, boost morale, and build software that scales, delights, and breaks new ground.
+Today, I bring this mindset to backend teams I work on. I focus on unblocking, motivating with positivity, and finding a simpler way forward.
 
 <img align="left" src="assets/rubber-duck.png" height="128px">
 
