@@ -1,12 +1,14 @@
 <img align="left" src="assets/rubber-duck.png" height="128px">
 
 ### Hi there 👋 nice to meet you
-I'm **Max**, a Go enthusiast with a strong passion for backend engineering and computer networking. I love writing dev tools and improving my soft skills.
+
+I'm **Max**, backend enthusiast with a love for learning.
 </br>
 </br>
 
-_Try talking to_ ☝️, _the rubber duck_, _if you're stuck on a bug_
+_Try talking to_ ☝️, _the rubber duck_, _if you're stuck on a bug._
 
+<!--
 ### Personal info
 
 - 🔧 I use daily: .go, .py, .sh
