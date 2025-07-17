@@ -1,8 +1,6 @@
-Hi there 👋 I'm Max—a Software Engineer driven by relentless curiosity, from operating systems to scalable system design.
+Hi there 👋 I'm Max—a Software Engineer driven by relentless curiosity. I'm obsessed with challenging assumptions, digging into fundamentals, and turning "boring" work into real progress.
 
-Fresh out of a CS degree, I saw teams stall—not from technical barriers, but from missing the point. Curiosity and clear communication make or break success.
-
-I challenge assumptions, dig into fundamentals, and turn "boring" work into real progress. I'm here to solve problems, then build software that scales and delights.
+Fresh out of a CS degree, I saw teams stall—not from technical barriers, but from missing the point. That led me to focous on solving problems and building software that scales and delights.
 
 Today, I bring this mindset to backend teams. I focus on unblocking challenges, motivating with positivity, and finding the simpler path forward.
 
