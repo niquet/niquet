@@ -1,15 +1,10 @@
-Hi there 👋 I'm Max—a Software Engineer driven by relentless curiosity. I'm obsessed with challenging assumptions, digging into fundamentals, and turning "boring" work into real progress.
+<img align="left" src="assets/rubber-duck.png" height="144px">
 
-Fresh out of a CS degree, I saw teams stall—not from technical barriers, but from missing the point. That led me to focous on solving problems and building software that scales and delights.
+Make things.<br>
+Simpler.<br>
+Still curious.
 
-Today, I bring this mindset to backend teams. I focus on unblocking challenges, motivating with positivity, and finding the simpler path forward.
-
-<img align="left" src="assets/rubber-duck.png" height="128px">
-
-<br>
-<br>
-
-_Try talking to_ :point_left:, _the rubber duck_, _if you're stuck on a bug._
+:point_left: _that's a rubber duck._
 
 <!--
 ### Personal info
